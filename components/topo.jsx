@@ -3,7 +3,7 @@ export default function Topo(){
         <>
             <aside className="menu white-bg">
                 <div className="main-content menu-content">
-                    <h1><a href="#home"> LOGO </a></h1>
+                    <h1><a href="#home"> ONU ODS </a></h1>
                     
                     <nav>
                         <ul>

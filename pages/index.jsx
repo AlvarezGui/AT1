@@ -8,14 +8,13 @@ export default function Tudo(){
     return(
         <>
             <Head>
-                <title>Utilizando Components</title>
+                <title>ODS 10</title>
             </Head>
 
             <Topo></Topo>
-            <Home titulo="teste de título" texto="texto inserido eba"></Home>
-            <Home titulo="segundo home" texto="LUFFY VENCEU PORRAAAA"></Home>
+            <Home titulo="Redução das Desigualdades" texto="Objetivo de Desenvolvimento Sustentavél 10"></Home>
 
-            <Intro titulo="Objetivo" texto="objetivo do meu pai"></Intro>
+            <Intro titulo="Objetivo" texto="Reduzir a desigualdade dentro dos países e entre eles"></Intro>
 
             <Metas></Metas>
         </>
