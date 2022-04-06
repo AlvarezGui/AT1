@@ -7,12 +7,16 @@ export default function Metas(){
                 <div className="main-content grid-one-content">
                     <h2 className="grid-main-heading"> Metas </h2> <br /> <br />
                     <div className="grid">
-                        <Artigos texto="10.1.1 - Taxa de crescimento das despesas domiciliares ou rendimento per capita entre os 40% com os menores rendimentos da população e a população total"></Artigos>
-                        <Artigos texto="10.2.1 - Proporção da pessoas vivendo abaixo de 50% da mediana da renda, por sexo, idade e pessoas com deficiênciaO"></Artigos>
-                        <Artigos texto="10.4.1 - Proporção das remunerações no PIB, incluindo salários e as transferências de proteção social"></Artigos>
-                        <Artigos texto="10.5.1 - Indicadores de Solidez Financeira"></Artigos>
-                        <Artigos texto="10.5.1a - Índice de Patrimônio de Referência Nível I sobre Ativos Totais Ajustados (B1B2)"></Artigos>
-                        <Artigos texto="10.5.1g - Posição aberta líquida em moeda estrangeira sobre capital"></Artigos>
+                        <Artigos texto="10.1 Até 2030, progressivamente alcançar e sustentar o crescimento da renda dos 40% da população mais pobre a uma taxa maior que a média nacional"></Artigos>
+                        <Artigos texto="10.2 Até 2030, empoderar e promover a inclusão social, econômica e política de todos, independentemente da idade, gênero, deficiência, raça, etnia, origem, religião, condição econômica ou outra"></Artigos>
+                        <Artigos texto="10.3 Garantir a igualdade de oportunidades e reduzir as desigualdades de resultados, inclusive por meio da eliminação de leis, políticas e práticas discriminatórias e da promoção de legislação, políticas e ações adequadas a este respeito"></Artigos>
+                        <Artigos texto="10.4 Adotar políticas, especialmente fiscal, salarial e de proteção social, e alcançar progressivamente uma maior igualdade"></Artigos>
+                        <Artigos texto="10.5 Melhorar a regulamentação e monitoramento dos mercados e instituições financeiras globais e fortalecer a implementação de tais regulamentações"></Artigos>
+                        <Artigos texto="10.6 Assegurar uma representação e voz mais forte dos países em desenvolvimento em tomadas de decisão nas instituições econômicas e financeiras internacionais globais, a fim de produzir instituições mais eficazes, críveis, responsáveis e legítimas"></Artigos>
+                        <Artigos texto="10.7 Facilitar a migração e a mobilidade ordenada, segura, regular e responsável das pessoas, inclusive por meio da implementação de políticas de migração planejadas e bem geridas"></Artigos>
+                        <Artigos texto="10.a Implementar o princípio do tratamento especial e diferenciado para países em desenvolvimento, em particular os países menos desenvolvidos, em conformidade com os acordos da OMC"></Artigos>
+                        <Artigos texto="10.b Incentivar a assistência oficial ao desenvolvimento e fluxos financeiros, incluindo o investimento externo direto, para os Estados onde a necessidade é maior, em particular os países menos desenvolvidos, os países africanos, os pequenos Estados insulares em desenvolvimento e os países em desenvolvimento sem litoral, de acordo com seus planos e programas nacionais"></Artigos>
+                        <Artigos texto="10.c Até 2030, reduzir para menos de 3% os custos de transação de remessas dos migrantes e eliminar os corredores de remessas com custos superiores a 5%"></Artigos>
                     </div>
                 </div>
             </section>
